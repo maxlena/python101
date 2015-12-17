@@ -2,6 +2,6 @@
 
 import os
 
-os.chdir("c:/Storage/all_ds_tracks/TrackCourseRA _ Python 101/[Coursera] - Python Data Structures/Assignments")
+os.chdir("...")
 
 print ('\n\tHello Python for Web' )
